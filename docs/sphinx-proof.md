@@ -1,7 +1,7 @@
 # sphinx-proof: advanced proofs, theorems &amp; more...
 
 Easily render proofs, theorems, axioms, lemmas, definitions and much more with `sphinx-proof`.
-Read more in the [documentation of sphinx-proof](sphinxproof:syntax).
+Read more in the (link missing).
 
 ````{prf:proof}
 We'll omit the full proof.

@@ -8,8 +8,7 @@ You can configure mappings to external Sphinx projects in your Jupyter Book conf
 
 ```{example}
 We can link to pages in other documentation projects.
-This is a link to the
-[Executable Book project's list of tools they build](ebp:tools)
+This is a link to the (link removed).
 ```
 
 
@@ -19,8 +18,7 @@ This is a link to the
 
 ```{eval-rst}
 We can link to pages in other documentation projects.
-This is a link to the
-:doc:`Executable Book project's list of tools they build <ebp:tools>`
+This is a link to the (link removed).
 ```
 
 ```{note}
